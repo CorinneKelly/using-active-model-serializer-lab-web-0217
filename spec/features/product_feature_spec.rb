@@ -53,4 +53,4 @@ RSpec.describe "Products", type: :feature do
 #       expect(page).to have_content "Available"
 #     end
 #   end
-# end
+end
